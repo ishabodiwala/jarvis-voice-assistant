@@ -1,6 +1,6 @@
-# jarvis Voice Assistant
+# Jarvis Voice Assistant
 
-jarvis is a Flutter-based voice assistant project that enables users to interact with their devices using voice commands. Users can ask questions or make requests, such as creating images, through voice input. The project utilizes text-to-speech and natural language processing capabilities to interpret user requests and generate appropriate responses. Additionally, it integrates with external APIs like ChatGPT and DALL-E to fulfill user requests effectively.
+Jarvis Voice Assistant is a Flutter-based project that enables users to interact with their devices using voice commands. Users can ask questions or make requests, such as creating images, through voice input. The project utilizes text-to-speech and natural language processing capabilities to interpret user requests and generate appropriate responses. Additionally, it integrates with external APIs like ChatGPT and DALL-E to fulfill user requests effectively.
 
 ### Features
 
